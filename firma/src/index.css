@@ -1,0 +1,74 @@
+body{
+	font-size:18ptx;
+}
+#filedrop{
+	width: 60%; 
+	height: 200px;
+	/*color:gray; */
+	/*padding: 40px 100px;*/
+	border: 2px dashed #ccc;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	padding: 30px 50px;
+	margin: 0 auto;
+}
+.arrastra{
+	margin-top:10px;
+}
+.modal-content{
+	font-family: 'Open Sans', sans-serif;
+	background-color: rgb(236,237,236);
+}
+.content_header{
+	margin-top: 10px;
+	color: #809395;
+	font-family: 'Open Sans',sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+}
+.archivos_header{
+	font-size: 24px;
+	color: #8b9da0;
+	font-weight: 300;
+	text-align: center;
+}
+.archivo_muestro{
+	font-family: 'Open Sans',sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	background-color: white;
+	margin:5px;
+	padding:4px;
+}
+
+.thumb_up {  
+  	background-image: url("/cruz.jpg");
+  	background-repeat: no-repeat;  
+  	border: 0;
+  	width: 20px;
+	height: 20px;
+	vertical-align: middle;
+	display: inline-block;
+	border: none;
+	cursor: pointer;
+	float: right;
+}
+
+.botonAgregar{
+	margin-top:25px;
+}
+.botonesArchivos{
+	margin:30px;
+	text-align:right;
+}
+.dropzone {
+			width: 60%; 
+			height: 200px;
+			/*color:gray; */
+			/*padding: 40px 100px;*/
+			border: 2px dashed #ccc;
+			-webkit-border-radius: 10px;
+			border-radius: 10px;
+			padding: 30px 50px;
+    		margin: 0 auto; 
+}
